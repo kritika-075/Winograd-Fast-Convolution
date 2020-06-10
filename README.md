@@ -1,1 +1,1 @@
-# Winograd-s-Fast-Convolution
+# Winograd-Fast-Convolution
